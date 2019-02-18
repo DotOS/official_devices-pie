@@ -16,5 +16,14 @@
       "maintainer_name":"chautruongthinh",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=4894994",
       "xda_thread":"#"
+    },
+    {
+     "name": "MI A1",
+     "brand":"Xiaomi",
+     "codename":"tissot",
+     "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/tissot/",
+     "maintainer_name":Vishal_Kumar",
+     "maintainer_url":"https://forum.xda-developers.com/member.php?u=8982606",
+     "xda_thread":"https://forum.xda-developers.com/member.php?u=8982606",
     }
 ]
