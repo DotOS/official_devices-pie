@@ -16,5 +16,15 @@
       "maintainer_name":"chautruongthinh",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=4894994",
       "xda_thread":"#"
-    }
+    },
+    {
+      "name":"Redmi 3S",
+      "brand":"Xiaomi",
+      "codename":"land",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/land",
+      "maintainer_name":"Aditya Kevin Prahasta",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9299697",
+      "xda_thread":"#"
+    },
+
 ]
