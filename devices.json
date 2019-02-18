@@ -17,4 +17,14 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=4894994",
       "xda_thread":"#"
     }
+    {
+      "name":"Smartron SRT phone",
+      "brand":"Smartron",
+      "codename":"rimo02a",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/rimo02a/",
+      "maintainer_name":"Shreehari Vaasishta",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8748632",
+      "xda_thread":"https://forum.xda-developers.com/android/software-hacking/rom-dotos-3-0-t3901281"
+    },
+
 ]
