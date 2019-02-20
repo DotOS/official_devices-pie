@@ -3,7 +3,7 @@
         "name":"Redmi Note 4",
       "brand":"Xiaomi",
       "codename":"mido",
-      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/mido",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/mido",
       "maintainer_name":"Iacob Ionut && Mohan Cm",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7481761",
       "xda_thread":"#"
@@ -12,7 +12,7 @@
       "name":"VEGA IRON 2",
       "brand":"Pantech",
       "codename":"ef63",
-      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/ef63",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/ef63",
       "maintainer_name":"chautruongthinh",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=4894994",
       "xda_thread":"#"
@@ -39,7 +39,7 @@
       "name":"Redmi 3S",
       "brand":"Xiaomi",
       "codename":"land",
-      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/land",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/land",
       "maintainer_name":"Aditya Kevin Prahasta",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9299697",
       "xda_thread":"#"
@@ -48,7 +48,7 @@
       "name":"MI 8 Lite",
       "brand":"Xiaomi",
       "codename":"platina",
-      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/platina",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/platina",
       "maintainer_name":"rsyhan",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9694624",
       "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-dotos-xiaomi-mi-8-lite-t3901523"
@@ -57,7 +57,7 @@
       "name":"Redmi Note 5 Pro",
       "brand":"Xiaomi",
       "codename":"whyred",
-      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/whyred",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/whyred",
       "maintainer_name":"Sipun Kumar Mahanta",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6698785",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/official-dotos-whyred15-02-2018-t3900498"
@@ -66,7 +66,7 @@
       "name":"Redmi note 6 pro",
       "brand":"Xiaomi",
       "codename":"tulip",
-      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/tulip",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/tulip",
       "maintainer_name":"theorganisms (SouravGope)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9106315",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3901752"
@@ -75,7 +75,7 @@
       "name":"Asus Zenfone Max Pro M1",
       "brand":"Asus",
       "codename":"X00T",
-      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/X00T",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/X00T",
       "maintainer_name":"Kapil Tapsi",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6034616",
       "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-dotos-t3901362"
