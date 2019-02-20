@@ -61,5 +61,14 @@
       "maintainer_name":"Sipun Kumar Mahanta",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6698785",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/official-dotos-whyred15-02-2018-t3900498"
+    },
+    {
+      "name":"Asus Zenfone Max Pro M1",
+      "brand":"Asus",
+      "codename":"X00T",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/X00T",
+      "maintainer_name":"Kapil Tapsi",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6034616",
+      "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-dotos-t3901362"
     }
 ]
