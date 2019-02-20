@@ -70,5 +70,14 @@
       "maintainer_name":"theorganisms (SouravGope)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9106315",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3901752"
+    },
+    {
+      "name":"Asus Zenfone Max Pro M1",
+      "brand":"Asus",
+      "codename":"X00T",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/X00T",
+      "maintainer_name":"Kapil Tapsi",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6034616",
+      "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-dotos-t3901362"
     }
 ]
