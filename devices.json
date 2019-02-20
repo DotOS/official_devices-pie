@@ -79,5 +79,14 @@
       "maintainer_name":"Kapil Tapsi",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6034616",
       "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-dotos-t3901362"
+    },
+	{
+      "name":"Google Nexus 6P",
+      "brand":"Google",
+      "codename":"angler",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/angler",
+      "maintainer_name":"PixelBoot",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
+      "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-dot-os-3-0-t3898420"
     }
 ]
