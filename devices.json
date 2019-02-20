@@ -61,5 +61,14 @@
       "maintainer_name":"Sipun Kumar Mahanta",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6698785",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/official-dotos-whyred15-02-2018-t3900498"
+    },
+    {
+      "name":"Redmi note 6 pro",
+      "brand":"Xiaomi",
+      "codename":"tulip",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/tulip",
+      "maintainer_name":"theorganisms (SouravGope)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9106315",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3901752"
     }
 ]
