@@ -97,5 +97,14 @@
       "maintainer_name":"PixelBoot",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
       "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-dot-os-3-0-t3898420"
+    },
+    {
+      "name":"Moto G5 Plus",
+      "brand":"Motorola",
+      "codename":"potter",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/potter",
+      "maintainer_name":"Anish Pratheepan",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7916453",
+      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-dotos-3-0-t3901335"
     }
 ]
