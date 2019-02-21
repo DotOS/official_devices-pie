@@ -1,6 +1,15 @@
 [
     {
-        "name":"Redmi Note 4",
+	"name":"Redmi 4X",
+	"brand":"Xiaomi",
+	"codename":"santoni",
+	"sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/santoni",
+	"maintainer_name":"Swapnil Soni(SoniSins)",
+	"maintainer_url":"https://forum.xda-developers.com/member.php?u=6844471",
+	"xda_thread":""
+    },
+    {
+      "name":"Redmi Note 4",
       "brand":"Xiaomi",
       "codename":"mido",
       "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/mido",
