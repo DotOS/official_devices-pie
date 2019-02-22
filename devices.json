@@ -106,5 +106,14 @@
      "maintainer_name":"Anish Pratheepan",
      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7916453",
      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-dotos-3-0-t3901335"
+  },
+  {
+     "name":"ZUK Z2 PLUS",
+     "brand":"Lenovo",
+     "codename":"z2_plus",
+     "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/z2_plus",
+     "maintainer_name":"Mourya Baruah",
+     "maintainer_url":"https://forum.xda-developers.com/member.php?u=5989777",
+     "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-3-0-t3901763"
   }
 ]
