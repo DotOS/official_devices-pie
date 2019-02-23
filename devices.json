@@ -9,6 +9,15 @@
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-3-0-pie-t3902667"
    },
    {
+    "name":"Poco F1",
+	"brand":"Xiaomi",
+	"codename":"beryllium",
+	"sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/beryllium",
+	"maintainer_name":"amog787",
+	"maintainer_url":"https://forum.xda-developers.com/member.php?u=8950490",
+	"xda_thread":""
+   },
+   {
       "name":"Redmi Note 4",
       "brand":"Xiaomi",
       "codename":"mido",
