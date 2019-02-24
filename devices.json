@@ -9,13 +9,13 @@
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-3-0-pie-t3902667"
    },
    {
-    "name":"Poco F1",
-	"brand":"Xiaomi",
-	"codename":"beryllium",
-	"sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/beryllium",
-	"maintainer_name":"amog787",
-	"maintainer_url":"https://forum.xda-developers.com/member.php?u=8950490",
-	"xda_thread":""
+      "name":"Poco F1",
+      "brand":"Xiaomi",
+      "codename":"beryllium",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/beryllium",
+      "maintainer_name":"amog787",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8950490",
+      "xda_thread":""
    },
    {
       "name":"Redmi Note 4",
@@ -124,5 +124,14 @@
       "maintainer_name":"Mourya Baruah",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5989777",
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-3-0-t3901763"
+   },
+   {
+      "name":"YU Yunique",
+      "brand":"YU",
+      "codename":"jalebi",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/jalebi",
+      "maintainer_name":"Maaz Muzammil",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7908199",
+      "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/dotos-t3903075"
    }
 ]
