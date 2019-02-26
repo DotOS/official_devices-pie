@@ -8,6 +8,17 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6844471",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-3-0-pie-t3902667"
    },
+
+   {
+      "name":"OnePlus6",
+      "brand":"OnePlus",
+      "codename":"enchilada",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/enchilada",
+      "maintainer_name":"Yash(rdjr5)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8531692",
+      "xda_thread":"https://forum.xda-developers.com/oneplus-6/development/rom-dotos-oneplus6-t3903480"
+   },
+
    {
       "name":"Poco F1",
       "brand":"Xiaomi",
