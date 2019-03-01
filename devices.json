@@ -90,6 +90,15 @@
       "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3901752"
    },
    {
+      "name":"Mix 2s",
+      "brand":"Xiaomi",
+      "codename":"polaris",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/polaris",
+      "maintainer_name":"juvevood",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9432948",
+      "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-dotos-polaris-t3905144"
+   },
+   {
       "name":"Asus Zenfone Max Pro M1",
       "brand":"Asus",
       "codename":"X00T",
