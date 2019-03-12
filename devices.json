@@ -38,6 +38,15 @@
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-dotos-3-0-t3901842"
    },
    {
+      "name":"Redmi 5 Plus",
+      "brand":"Xiaomi",
+      "codename":"vince",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/vince",
+      "maintainer_name":"Blacksuan19",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5980272",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-dotos-3-0-t3900593"
+   },
+   {
       "name":"VEGA IRON 2",
       "brand":"Pantech",
       "codename":"ef63",
