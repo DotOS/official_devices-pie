@@ -162,5 +162,14 @@
       "maintainer_name":"Maaz Muzammil",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7908199",
       "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/dotos-t3903075"
+   },
+   {
+      "name":"Asus Zenfone Max Pro M2",
+      "brand":"Asus",
+      "codename":"X01BD",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/X01BD",
+      "maintainer_name":"Rohan Shahshankar",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9697101",
+      "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/rom-dotos-3-0-pie-x01bd-t3907663"
    }
 ]
