@@ -172,4 +172,13 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9697101",
       "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/rom-dotos-3-0-pie-x01bd-t3907663"
    }
+   {
+      "name":"Lenovo Zuk Z1",
+      "brand":"Lenovo",
+      "codename":"ham",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/ham",
+      "maintainer_name":"Srijith Bharadwaj",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8350895",
+      "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/8-1-x-dotos-v2-3-t3803877"
+   }
 ]
