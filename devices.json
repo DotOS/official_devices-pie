@@ -171,5 +171,14 @@
       "maintainer_name":"Rohan Shahshankar",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9697101",
       "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/rom-dotos-3-0-pie-x01bd-t3907663"
-   }
+   },
+   {
+      "name":"YU Yuphoria",
+      "brand":"YU",
+      "codename":"lettuce",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/lettuce",
+      "maintainer_name":"Gaurav(Gaurav24)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8029593",
+      "xda_thread":"https://forum.xda-developers.com/yu-yuphoria/development/rom-dotos-3-0-t3900864"
+   } 
 ]
