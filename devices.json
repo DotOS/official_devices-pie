@@ -171,5 +171,14 @@
       "maintainer_name":"Rohan Shahshankar",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9697101",
       "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/rom-dotos-3-0-pie-x01bd-t3907663"
+   },
+   {
+      "name":"Motorola G5S Plus",
+      "brand":"Motorola",
+      "codename":"sanders",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/sanders",
+      "maintainer_name":"Rajesh Kumbhakar",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7176262",
+      "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-dotos-3-0-t3907913"
    }
 ]
