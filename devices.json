@@ -8,7 +8,6 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6844471",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-3-0-pie-t3902667"
    },
-
    {
       "name":"OnePlus6",
       "brand":"OnePlus",
@@ -18,7 +17,6 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8531692",
       "xda_thread":"https://forum.xda-developers.com/oneplus-6/development/rom-dotos-oneplus6-t3903480"
    },
-
    {
       "name":"Poco F1",
       "brand":"Xiaomi",
@@ -180,7 +178,7 @@
       "maintainer_name":"Rajesh Kumbhakar",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7176262",
       "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-dotos-3-0-t3907913"
-   }
+   },
    {
       "name":"Lenovo Zuk Z1",
       "brand":"Lenovo",
@@ -198,5 +196,5 @@
       "maintainer_name":"Gaurav(Gaurav24)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8029593",
       "xda_thread":"https://forum.xda-developers.com/yu-yuphoria/development/rom-dotos-3-0-t3900864"
-   } 
+   }
 ]
