@@ -232,5 +232,14 @@
       "maintainer_name":"IKGapirov, Brunowp8",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7489422",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-v3-0-t3913898"
+   },
+   {
+      "name":"Redmi 4a",
+      "brand":"Xiaomi",
+      "codename":"rolex",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/rolex",
+      "maintainer_name":"Aditya (adi153)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9802095",
+      "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/dotos-unofficial-rolex-t3912334"
    }
 ]
