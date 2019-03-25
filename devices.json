@@ -233,4 +233,15 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7489422",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-v3-0-t3913898"
    }
+   {
+      "name":"LG V30 (h930)",
+      "brand":"LG",
+      "codename":"h930",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/h930",
+      "maintainer_name":"Manoj Pawar (luffy1105)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9778581",
+      "xda_thread":"https://forum.xda-developers.com/lg-v30/development/rom-pie-dot-os-3-0-t3908490"
+    },
+
 ]
+
