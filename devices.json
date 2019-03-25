@@ -232,5 +232,15 @@
       "maintainer_name":"IKGapirov, Brunowp8",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7489422",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-v3-0-t3913898"
+   },
+   {
+      "name":"Galaxy A3 2016",
+      "brand":"Samsung",
+      "codename":"a3xelte",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/a3xelte",
+      "maintainer_name":"Dario Trombello",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7377908",
+      "xda_thread":"https://forum.xda-developers.com/samsung-a-series/orig-development/rom-dotos-3-0-galaxy-a3-2016-a3xelte-sm-t3914059"
    }
+
 ]
