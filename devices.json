@@ -259,5 +259,14 @@
       "maintainer_name":"Dario Trombello",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7377908",
       "xda_thread":"https://forum.xda-developers.com/samsung-a-series/orig-development/rom-dotos-3-0-galaxy-a3-2016-a3xelte-sm-t3914059"
+   },
+   {
+      "name":"LG V30",
+      "brand":"LGE",
+      "codename":"h930",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/h930",
+      "maintainer_name":"Manoj Pawar (luffy1105)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6642180",
+      "xda_thread":"https://forum.xda-developers.com/lg-v30/development/rom-pie-dot-os-3-0-t3908490"
    }
 ]
