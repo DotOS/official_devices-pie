@@ -268,5 +268,14 @@
       "maintainer_name":"Manoj Pawar (luffy1105)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6642180",
       "xda_thread":"https://forum.xda-developers.com/lg-v30/development/rom-pie-dot-os-3-0-t3908490"
+   },
+   {
+      "name":"Huawei P8 Lite 2017",
+      "brand":"Huawei",
+      "codename":"prague",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/prague",
+      "maintainer_name":"Simone Esposito(DarkJoker360)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7019289",
+      "xda_thread":"https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-dot-os-p-v3-0-huawei-p8-lite-2017-t3911925"
    }
 ]
