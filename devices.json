@@ -268,5 +268,14 @@
       "maintainer_name":"Manoj Pawar (luffy1105)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6642180",
       "xda_thread":"https://forum.xda-developers.com/lg-v30/development/rom-pie-dot-os-3-0-t3908490"
+   },
+   {
+      "name":"Redmi Note 3",
+      "brand":"Xiaomi",
+      "codename":"kenzo",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/kenzo",
+      "maintainer_name":"Sagar Rokade",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7312263",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-dotos-3-0-t3920811"
    }
 ]
