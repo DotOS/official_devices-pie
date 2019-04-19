@@ -135,6 +135,15 @@
       "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-dotos-t3901362"
    },
    {
+      "name":"Asus Zenfone 3",
+      "brand":"Asus",
+      "codename":"zenfone3",
+      "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/zenfone3",
+      "maintainer_name":"nguyenhung9x",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7770592",
+      "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-dotos-3-0-ze520kl-ze552kl-t3922536"
+   },  
+   {
       "name":"Google Nexus 6P",
       "brand":"Google",
       "codename":"angler",
