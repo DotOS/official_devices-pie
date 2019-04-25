@@ -1,4 +1,12 @@
 [
+  {"name": "MI A2",
+   "brand": "Xiaomi",
+   "codename": "jasmine_sprout",
+   "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/jasmine_sprout",
+   "maintainer_name": "Venkat Yadlapati(Venkat3620)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+   "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-dot-os-t3924020"
+  },
   {
     "name": "Redmi 4X",
     "brand": "Xiaomi",
