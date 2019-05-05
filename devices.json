@@ -303,5 +303,14 @@
     "maintainer_name": "Simone Esposito (DarkJoker360)",
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=7019289",
     "xda_thread": "https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-dot-os-p-v3-0-huawei-p8-lite-2017-t3911925"
+   },
+   {
+    "name": "Moto G5",
+    "brand": "Motorola",
+    "codename": "cedric",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/cedric",
+    "maintainer_name": "Zilberto Junior (ZJRDroid)",
+    "maintainer_url": "https://t.me/ZJRDroid",
+    "xda_thread": "https://forum.xda-developers.com/g5/development/rom-dotos-pie-3-0-t3921168"
   }
 ]
