@@ -1,4 +1,13 @@
 [
+  {
+   "name":"LYF Water 8",
+   "brand":"LYF",
+   "codename":"mobee01a",
+   "sf_dir":"https://sourceforge.net/projects/dotos-downloads/files/dotp/mobee01a",
+   "maintainer_name":"Mohd Faraz (AndroiableDroid)",
+   "maintainer_url":"https://forum.xda-developers.com/member.php?u=7371266",
+   "xda_thread":"https://forum.xda-developers.com/android/general/dotos-oreo-lyf-water-8-unofficial-t3761177"
+  },
   {"name": "MI A2",
    "brand": "Xiaomi",
    "codename": "jasmine_sprout",
