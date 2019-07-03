@@ -70,6 +70,17 @@
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=5980272",
     "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-dotos-3-0-t3900593"
   },
+
+ {
+    "name": "Redmi Note 7 Pro",
+    "brand": "Xiaomi",
+    "codename": "violet",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/violet",
+    "maintainer_name": "Mithil",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7059065",
+    "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-dotos-v3-0-t3938611"
+  },
+
   {
     "name": "VEGA IRON 2",
     "brand": "Pantech",
