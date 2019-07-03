@@ -321,5 +321,14 @@
     "maintainer_name": "Zilberto Junior (ZJRDroid)",
     "maintainer_url": "https://t.me/ZJRDroid",
     "xda_thread": "https://forum.xda-developers.com/g5/development/rom-dotos-pie-3-0-t3921168"
+  },
+  {
+   "name": "Mi Mix 2",
+   "brand": "Xiaomi",
+   "codename": "chiron",
+   "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/chiron",
+   "maintainer_name": "Wasim Afser (wasimafser)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=8837825",
+   "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-dotos-3-x-chiron-t3941791"
   }
 ]
