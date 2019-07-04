@@ -321,5 +321,13 @@
     "maintainer_name": "Zilberto Junior (ZJRDroid)",
     "maintainer_url": "https://t.me/ZJRDroid",
     "xda_thread": "https://forum.xda-developers.com/g5/development/rom-dotos-pie-3-0-t3921168"
-  }
+  },
+  { "name": "Xiaomi Mi A2 Lite",
+    "brand": "Xiaomi",
+    "codename": "daisy",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/daisy",
+    "maintainer_name": "Tunahan Şahin (tunasahinn)",
+    "maintainer_url": "https://t.me/tunasahinn",
+    "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/development"
 ]
+
