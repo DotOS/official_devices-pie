@@ -1,20 +1,21 @@
 [
   {
-   "name": "LYF Water 8",
-   "brand": "LYF",
-   "codename": "mobee01a",
-   "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/mobee01a",
-   "maintainer_name": "Mohd Faraz (AndroiableDroid)",
-   "maintainer_url": "https://forum.xda-developers.com/member.php?u=7371266",
-   "xda_thread": "https://forum.xda-developers.com/android/general/dotos-oreo-lyf-water-8-unofficial-t3761177"
+    "name": "LYF Water 8",
+    "brand": "LYF",
+    "codename": "mobee01a",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/mobee01a",
+    "maintainer_name": "Mohd Faraz (AndroiableDroid)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7371266",
+    "xda_thread": "https://forum.xda-developers.com/android/general/dotos-oreo-lyf-water-8-unofficial-t3761177"
   },
-  {"name": "MI A2",
-   "brand": "Xiaomi",
-   "codename": "jasmine_sprout",
-   "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/jasmine_sprout",
-   "maintainer_name": "Venkat Yadlapati(Venkat3620)",
-   "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
-   "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-dot-os-t3924020"
+  {
+    "name": "MI A2",
+    "brand": "Xiaomi",
+    "codename": "jasmine_sprout",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/jasmine_sprout",
+    "maintainer_name": "Venkat Yadlapati(Venkat3620)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+    "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-dot-os-t3924020"
   },
   {
     "name": "Redmi 4X",
@@ -71,7 +72,7 @@
     "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-dotos-3-0-t3900593"
   },
 
- {
+  {
     "name": "Redmi Note 7 Pro",
     "brand": "Xiaomi",
     "codename": "violet",
@@ -350,5 +351,14 @@
     "maintainer_name": "IvanHephaestus",
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=9085769",
     "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-dotos-3-0-t3904942"
+  },
+  {
+    "name": "Mi Mix 2",
+    "brand": "Xiaomi",
+    "codename": "chiron",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/chiron",
+    "maintainer_name": "Wasim Afser (wasimafser)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8837825",
+    "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-dotos-3-x-chiron-t3941791"
   }
 ]
