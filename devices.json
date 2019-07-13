@@ -361,12 +361,13 @@
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=8837825",
     "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-dotos-3-x-chiron-t3941791"
   },
-  { 
-    "name": "Xiaomi Mi A2 Lite",
+  {
+    "name": "Mi A2 Lite",
     "brand": "Xiaomi",
     "codename": "daisy",
     "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/daisy",
     "maintainer_name": "Tunahan Şahin (tunasahinn)",
     "maintainer_url": "https://t.me/tunasahinn",
     "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/how-to/9-0-dotos-3-1-mi-a2-lite-t3945883"
+  }
 ]
