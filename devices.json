@@ -360,5 +360,14 @@
     "maintainer_name": "Wasim Afser (wasimafser)",
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=8837825",
     "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-dotos-3-x-chiron-t3941791"
+  },
+  {
+    "name": "Mi 8",
+    "brand": "Xiaomi",
+    "codename": "dipper",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/dipper",
+    "maintainer_name": "zhullyb",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=9104385",
+    "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-dotos-3-x-t3926909"
   }
 ]
