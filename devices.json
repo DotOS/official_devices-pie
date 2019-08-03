@@ -360,5 +360,14 @@
     "maintainer_name": "Wasim Afser (wasimafser)",
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=8837825",
     "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-dotos-3-x-chiron-t3941791"
+  },
+  {
+    "name": "Galaxy A5 2016",
+    "brand": "Samsung",
+    "codename": "a5xelte",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/a5xelte",
+    "maintainer_name": "PixelBoot",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8086838",
+    "xda_thread": "https://forum.xda-developers.com/samsung-a-series/development/rom-dotos-3-1-t3954076"
   }
 ]
