@@ -18,6 +18,15 @@
     "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-dot-os-t3924020"
   },
   {
+    "name": "MI 6X",
+    "brand": "Xiaomi",
+    "codename": "wayne",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/wayne",
+    "maintainer_name": "Venkat Yadlapati(Venkat3620)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+    "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-dotos-t3947334"
+  },
+  {
     "name": "Redmi 4X",
     "brand": "Xiaomi",
     "codename": "santoni",
