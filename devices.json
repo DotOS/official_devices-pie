@@ -387,5 +387,23 @@
     "maintainer_name": "Tunahan Şahin (tunasahinn)",
     "maintainer_url": "https://t.me/tunasahinn",
     "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/how-to/9-0-dotos-3-1-mi-a2-lite-t3945883"
+  },
+  {
+    "name": "Galaxy A5 2016",
+    "brand": "Samsung",
+    "codename": "a5xelte",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/a5xelte",
+    "maintainer_name": "bunnyy",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8946392",
+    "xda_thread": "https://forum.xda-developers.com/samsung-a-series/orig-development/rom-dotos-v3-x-unofficial-samsung-a5-t3958105"
+  },
+  {
+    "name": "Galaxy A7 2016",
+    "brand": "Samsung",
+    "codename": "a7xelte",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/a7xelte",
+    "maintainer_name": "bunnyy",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8946392",
+    "xda_thread": "https://forum.xda-developers.com/samsung-a-series/orig-development/rom-dotos-v3-x-samsung-a7-2016-t3958128/post80081037#post80081037"
   }
 ]
