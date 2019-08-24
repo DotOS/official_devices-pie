@@ -396,5 +396,14 @@
     "maintainer_name": "Tunahan Şahin (tunasahinn)",
     "maintainer_url": "https://t.me/tunasahinn",
     "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/how-to/9-0-dotos-3-1-mi-a2-lite-t3945883"
+  },
+  {
+    "name": "Lenovo Vibe K5/Plus",
+    "brand": "Lenovo",
+    "codename": "A6020",
+    "sf_dir": "https://sourceforge.net/projects/dotos-downloads/files/dotp/A6020",
+    "maintainer_name": "Adithya R (ghostrider_reborn)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=6560166",
+    "xda_thread": "https://forum.xda-developers.com/k5-plus/development/rom-dotos-v3-1-t3950939"
   }
 ]
